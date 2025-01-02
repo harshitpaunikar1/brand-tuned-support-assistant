@@ -20,3 +20,7 @@
 
 - Task summary: Spent another hour on this: resolved a merge conflict that came up when I switched branches to check something else.
 - Deliverable: Wrapped it up properly this time.
+## 2025-01-02 - Day 2: Research pass
+
+- Task summary: Spent another hour on this: wrapped a repeated block in a helper function since it showed up three times.
+- Deliverable: Wrapped it up properly this time.
