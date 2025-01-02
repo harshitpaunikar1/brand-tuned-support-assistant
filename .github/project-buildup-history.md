@@ -16,3 +16,7 @@
 
 - Task summary: Noticed something off from this morning — spent time just reading back through everything to make sure it still made sense end to end.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2025-01-02 - Day 2: Research pass
+
+- Task summary: Spent another hour on this: resolved a merge conflict that came up when I switched branches to check something else.
+- Deliverable: Wrapped it up properly this time.
