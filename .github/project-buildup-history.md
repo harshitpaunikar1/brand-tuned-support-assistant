@@ -12,3 +12,7 @@
 
 - Task summary: Used the next day to keep the momentum going for Brand-Tuned Support Assistant. I was still piecing things together, so I focused on trying to collect examples, competitor references, and raw notes before choosing features and wrote down the stuff that looked important. I was still mostly figuring out the shape of it, so a lot of the day went into small notes and half clear ideas. There were a few moving parts here, so I kept simplifying the plan in my head before touching anything else.
 - Deliverable: I wrapped up the day with research notes mostly in place. It was not perfect, but it was good enough to keep the project moving. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2025-01-02 - Day 2: Research pass
+
+- Task summary: Noticed something off from this morning — spent time just reading back through everything to make sure it still made sense end to end.
+- Deliverable: Should've caught it earlier but better now than later.
