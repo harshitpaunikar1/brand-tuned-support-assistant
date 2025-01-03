@@ -28,3 +28,7 @@
 
 - Task summary: By this point I had the rough direction, so the work became more practical. I spent most of the day trying to decide what belongs in version 1 and what can wait and make the whole thing feel less half baked. The middle part always takes longer than it should, mostly becuase one fix usually reveals two more things to clean up. The tricky bit was making the system sound realistic without pretending every edge case was solved.
 - Deliverable: I wrapped up the day with feature scope mostly in place. It was not perfect, but it was good enough to keep the project moving. It was not super polished, just stable enough that I felt okay moving forward.
+## 2025-01-03 - Day 3: Scope pass
+
+- Task summary: Came back after lunch and realized pushed a config tweak after noticing the wrong default param was being used.
+- Deliverable: One of those satisfying small wins.
