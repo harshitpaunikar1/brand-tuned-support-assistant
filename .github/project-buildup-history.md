@@ -32,3 +32,7 @@
 
 - Task summary: Came back after lunch and realized pushed a config tweak after noticing the wrong default param was being used.
 - Deliverable: One of those satisfying small wins.
+## 2025-01-03 - Day 3: Scope pass
+
+- Task summary: Quick follow-up: re-ran the plots with better axis labels and a more readable color palette.
+- Deliverable: Wrapped it up properly this time.
