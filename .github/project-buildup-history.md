@@ -44,3 +44,7 @@
 
 - Task summary: Spent another hour on this: re-ran the plots with better axis labels and a more readable color palette.
 - Deliverable: Nothing dramatic — just keeping things tidy.
+## 2025-01-06 - Day 4: User flow
+
+- Task summary: After stepping away for a bit, came back and cleaned up the cell ordering in the notebook so it reads top to bottom without jumping around.
+- Deliverable: One of those satisfying small wins.
