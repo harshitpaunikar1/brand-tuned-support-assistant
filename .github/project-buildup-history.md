@@ -48,3 +48,7 @@
 
 - Task summary: After stepping away for a bit, came back and cleaned up the cell ordering in the notebook so it reads top to bottom without jumping around.
 - Deliverable: One of those satisfying small wins.
+## 2025-01-06 - Day 4: User flow
+
+- Task summary: After stepping away for a bit, came back and added inline comments in the dense sections — would have been confusing to revisit without them.
+- Deliverable: Pushed before end of day.
