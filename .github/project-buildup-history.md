@@ -64,3 +64,7 @@
 
 - Task summary: Circled back: wrapped a repeated block in a helper function since it showed up three times.
 - Deliverable: Wrapped it up properly this time.
+## 2025-01-08 - Day 6: Architecture
+
+- Task summary: Quick follow-up: fixed a type coercion issue that was causing silent NaN propagation downstream.
+- Deliverable: Solid now, moving on.
