@@ -60,3 +60,7 @@
 
 - Task summary: This was the middle stretch where the project started feeling real. I kept going and tried to sketch a lightweight architecture or component breakdown, then cleaned up whatever looked confusing or weak from the earlier days. The middle part always takes longer than it should, mostly becuase one fix usually reveals two more things to clean up. The tricky bit was making the system sound realistic without pretending every edge case was solved.
 - Deliverable: Ended the day with system sketch in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
+## 2025-01-08 - Day 6: Architecture
+
+- Task summary: Circled back: wrapped a repeated block in a helper function since it showed up three times.
+- Deliverable: Wrapped it up properly this time.
