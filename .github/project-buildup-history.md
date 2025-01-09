@@ -80,3 +80,7 @@
 
 - Task summary: Came back after lunch and realized wrapped a repeated block in a helper function since it showed up three times.
 - Deliverable: Pushed before end of day.
+## 2025-01-09 - Day 7: HTML scaffold
+
+- Task summary: Ended up revisiting this in the evening — wrapped a repeated block in a helper function since it showed up three times.
+- Deliverable: Minor but worth doing.
