@@ -76,3 +76,7 @@
 
 - Task summary: Came back after lunch and realized the variable names were inconsistent so cleaned those up across the notebook before calling it done.
 - Deliverable: Nothing dramatic — just keeping things tidy.
+## 2025-01-09 - Day 7: HTML scaffold
+
+- Task summary: Came back after lunch and realized wrapped a repeated block in a helper function since it showed up three times.
+- Deliverable: Pushed before end of day.
