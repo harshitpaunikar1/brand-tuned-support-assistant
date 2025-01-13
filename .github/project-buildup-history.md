@@ -104,3 +104,7 @@
 
 - Task summary: Noticed something off from this morning — there was a subtle off-by-one error in the index slicing that was silently skewing results. Caught it and fixed it.
 - Deliverable: Wrapped it up properly this time.
+## 2025-01-13 - Day 9: Interactions
+
+- Task summary: Late-night fix: the test I wrote this morning had a hardcoded path, swapped it for a relative one.
+- Deliverable: Should've caught it earlier but better now than later.
