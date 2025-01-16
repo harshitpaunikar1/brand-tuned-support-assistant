@@ -124,3 +124,7 @@
 
 - Task summary: Got stuck mid-afternoon and had to regroup — resolved a merge conflict that came up when I switched branches to check something else.
 - Deliverable: Minor but worth doing.
+## 2025-01-16 - Day 12: Polish wrap
+
+- Task summary: Quick follow-up: resolved a merge conflict that came up when I switched branches to check something else.
+- Deliverable: One of those satisfying small wins.
