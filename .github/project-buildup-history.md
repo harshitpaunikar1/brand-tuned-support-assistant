@@ -128,3 +128,7 @@
 
 - Task summary: Quick follow-up: resolved a merge conflict that came up when I switched branches to check something else.
 - Deliverable: One of those satisfying small wins.
+## 2025-01-16 - Day 12: Polish wrap
+
+- Task summary: Spent another hour on this: pushed a config tweak after noticing the wrong default param was being used.
+- Deliverable: Cleaner than this morning's version.
