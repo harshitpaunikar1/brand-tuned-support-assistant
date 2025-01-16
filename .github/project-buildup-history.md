@@ -120,3 +120,7 @@
 
 - Task summary: Used the last day on Brand-Tuned Support Assistant to slow down and finish the loose ends. I mainly had to do a final pass for clarity, consistency, and first-impression quality and make sure the project told a clean story from start to finish. Most of the heavy lifting was already done, so this part was more about making the rough edges less obvious. The tricky bit was making the system sound realistic without pretending every edge case was solved.
 - Deliverable: Finished with final polish looking decent enough to call this version done, even if I could still nitpick a few things. It was not super polished, just stable enough that I felt okay moving forward.
+## 2025-01-16 - Day 12: Polish wrap
+
+- Task summary: Got stuck mid-afternoon and had to regroup — resolved a merge conflict that came up when I switched branches to check something else.
+- Deliverable: Minor but worth doing.
