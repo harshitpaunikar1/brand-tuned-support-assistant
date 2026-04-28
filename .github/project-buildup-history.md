@@ -14,7 +14,7 @@
 - Deliverable: I wrapped up the day with research notes mostly in place. It was not perfect, but it was good enough to keep the project moving. There were still a couple of loose parts, but nothing serious enough to block the next step.
 ## 2025-01-02 - Day 2: Research pass
 
-- Task summary: Noticed something off from this morning — spent time just reading back through everything to make sure it still made sense end to end.
+- Task summary: Noticed something off from this morning - spent time just reading back through everything to make sure it still made sense end to end.
 - Deliverable: Should've caught it earlier but better now than later.
 ## 2025-01-02 - Day 2: Research pass
 
@@ -43,14 +43,14 @@
 ## 2025-01-06 - Day 4: User flow
 
 - Task summary: Spent another hour on this: re-ran the plots with better axis labels and a more readable color palette.
-- Deliverable: Nothing dramatic — just keeping things tidy.
+- Deliverable: Nothing dramatic - just keeping things tidy.
 ## 2025-01-06 - Day 4: User flow
 
 - Task summary: After stepping away for a bit, came back and cleaned up the cell ordering in the notebook so it reads top to bottom without jumping around.
 - Deliverable: One of those satisfying small wins.
 ## 2025-01-06 - Day 4: User flow
 
-- Task summary: After stepping away for a bit, came back and added inline comments in the dense sections — would have been confusing to revisit without them.
+- Task summary: After stepping away for a bit, came back and added inline comments in the dense sections - would have been confusing to revisit without them.
 - Deliverable: Pushed before end of day.
 ## 2025-01-07 - Day 5: Content outline
 
@@ -75,14 +75,14 @@
 ## 2025-01-09 - Day 7: HTML scaffold
 
 - Task summary: Came back after lunch and realized the variable names were inconsistent so cleaned those up across the notebook before calling it done.
-- Deliverable: Nothing dramatic — just keeping things tidy.
+- Deliverable: Nothing dramatic - just keeping things tidy.
 ## 2025-01-09 - Day 7: HTML scaffold
 
 - Task summary: Came back after lunch and realized wrapped a repeated block in a helper function since it showed up three times.
 - Deliverable: Pushed before end of day.
 ## 2025-01-09 - Day 7: HTML scaffold
 
-- Task summary: Ended up revisiting this in the evening — wrapped a repeated block in a helper function since it showed up three times.
+- Task summary: Ended up revisiting this in the evening - wrapped a repeated block in a helper function since it showed up three times.
 - Deliverable: Minor but worth doing.
 ## 2025-01-09 - Day 7: HTML scaffold
 
@@ -102,7 +102,7 @@
 - Deliverable: Should've caught it earlier but better now than later.
 ## 2025-01-13 - Day 9: Interactions
 
-- Task summary: Noticed something off from this morning — there was a subtle off-by-one error in the index slicing that was silently skewing results. Caught it and fixed it.
+- Task summary: Noticed something off from this morning - there was a subtle off-by-one error in the index slicing that was silently skewing results. Caught it and fixed it.
 - Deliverable: Wrapped it up properly this time.
 ## 2025-01-13 - Day 9: Interactions
 
@@ -122,7 +122,7 @@
 - Deliverable: Finished with final polish looking decent enough to call this version done, even if I could still nitpick a few things. It was not super polished, just stable enough that I felt okay moving forward.
 ## 2025-01-16 - Day 12: Polish wrap
 
-- Task summary: Got stuck mid-afternoon and had to regroup — resolved a merge conflict that came up when I switched branches to check something else.
+- Task summary: Got stuck mid-afternoon and had to regroup - resolved a merge conflict that came up when I switched branches to check something else.
 - Deliverable: Minor but worth doing.
 ## 2025-01-16 - Day 12: Polish wrap
 

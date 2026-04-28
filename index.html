@@ -200,12 +200,12 @@
   <div class="debate-grid">
     <div class="debate-side">
       <h4>RAG (Retrieval-Augmented)</h4>
-      <p>RAG is an external database architecture. Best used when the system needs to cite <strong>volatile facts</strong>—pricing, tracking numbers, or dynamic inventory. The LLM remains unchanged; it is simply handed a document inside the prompt and told to summarize it.</p>
+      <p>RAG is an external database architecture. Best used when the system needs to cite <strong>volatile facts</strong>-pricing, tracking numbers, or dynamic inventory. The LLM remains unchanged; it is simply handed a document inside the prompt and told to summarize it.</p>
       <p><em>Advantage: Zero hallucination on specific documents. Instant updating.</em></p>
     </div>
     <div class="debate-side">
       <h4>LoRA (Fine-Tuning)</h4>
-      <p>LoRA is an internal weight-shifting architecture. Best used when the system needs to learn a <strong>behavior, syntax, or tone</strong>—how to structure an apology, when to use shorthand, or how to mimic a seasoned agent's brevity. It costs compute, not prompt space.</p>
+      <p>LoRA is an internal weight-shifting architecture. Best used when the system needs to learn a <strong>behavior, syntax, or tone</strong>-how to structure an apology, when to use shorthand, or how to mimic a seasoned agent's brevity. It costs compute, not prompt space.</p>
       <p><em>Advantage: Deep structural mimicry. Elimination of generic AI phrasing.</em></p>
     </div>
   </div>
@@ -280,7 +280,7 @@
 
   <p>The allure of prompt engineering is speed. It requires nothing more than string manipulation. However, when you rely on system prompts, you are burning token budgets on every single interaction just to enforce constraints. Worse, as conversations drag on, attention mechanisms drift, and the LLM suddenly reverts back to its baseline, overly apologetic self.</p>
 
-  <p>Creating a LoRA replaces token bloat with deep curation friction. Parameter-efficient fine-tuning (PEFT) is surprisingly cheap on compute—it only freezes the base model and adjusts a tiny fraction of adapter weights. The actual expense lies in human capital: building the QA pairs.</p>
+  <p>Creating a LoRA replaces token bloat with deep curation friction. Parameter-efficient fine-tuning (PEFT) is surprisingly cheap on compute-it only freezes the base model and adjusts a tiny fraction of adapter weights. The actual expense lies in human capital: building the QA pairs.</p>
 
 <pre><code><span class="c-comment"># Loading a PEFT LoRA adapter injected over a 7B parameter base model</span>
 <span class="c-keyword">import</span> torch
@@ -301,7 +301,7 @@ model = AutoModelForCausalLM.from_pretrained(
 model = PeftModel.from_pretrained(model, adapter_path)
 </code></pre>
 
-  <p>A good dataset for a brand voice requires a minimum of 500 to 1,000 highly diverse interactions. You cannot synthetically generate these using GPT-4, or you will merely inherit GPT-4's native syntax. You must scrape actual Zendesk or Intercom transcripts, strip the PII, and manually rewrite the agent responses to reflect the idealized, concise brand voice. This is grueling, tedious work—but it is the only physical barrier separating a native brand experience from a generic chatbot.</p>
+  <p>A good dataset for a brand voice requires a minimum of 500 to 1,000 highly diverse interactions. You cannot synthetically generate these using GPT-4, or you will merely inherit GPT-4's native syntax. You must scrape actual Zendesk or Intercom transcripts, strip the PII, and manually rewrite the agent responses to reflect the idealized, concise brand voice. This is grueling, tedious work-but it is the only physical barrier separating a native brand experience from a generic chatbot.</p>
 
   <h2>Trade-off 3: The Output Reality</h2>
 
@@ -352,7 +352,7 @@ model = PeftModel.from_pretrained(model, adapter_path)
 
     </svg>
     <div class="caption">
-      Output Comparison Matrix. The baseline model wastes tokens on robotic apologies. The prompt-engineered model acts out a caricature of the "edgy" prompt. The LoRA model is structurally altered; it doesn't have to be forced to be brief, it is natively parameterized to strip out the fluff, take ownership, and resolve the issue quickly—exactly how the human agents in the dataset behave.
+      Output Comparison Matrix. The baseline model wastes tokens on robotic apologies. The prompt-engineered model acts out a caricature of the "edgy" prompt. The LoRA model is structurally altered; it doesn't have to be forced to be brief, it is natively parameterized to strip out the fluff, take ownership, and resolve the issue quickly-exactly how the human agents in the dataset behave.
     </div>
   </div>
 
